@@ -10,8 +10,8 @@ Potrzebne nam bdzie srodowisko git. W laboratorium wybieramy wersję przenośną
 https://github.com/git-for-windows/git/releases/download/v2.6.1.windows.1/PortableGit-2.6.1-32-bit.7z.exe
 
 Wypakowujemy archiwum do dostępnego sobie folderu i uruchamiamy git-bash.exe (zależnie od preferencji może to być też git-cmd.exe)
- 0.  Skonfiguruj swojego klienta GIT
- 1.  W serwisie GitHub zrób odgałęxienie ("forkuj") z głównego repozytorium eksploracjaUp2015/lab1 na swoje konto
+ 0.  Możesz Skonfigurować swojego klienta GIT na podstawie instrukcji README.portable
+ 1.  W serwisie GitHub zrób odgałęzienie ("forkuj") z głównego repozytorium eksploracjaUp2015/lab1 na swoje konto
  2.  Sklonuj odgałęzione repozytorium na swój lokalny komputer
  3.  Dokonaj zmian w plikach i "scommituj" - zakończ jakiś etap zadania. Wszystko dzieje się lokalnie.
  4.  Zsynchronizuj ("wypchnij zmiany", "pushuj") repozytorium lokalne z Twoim zdalnym na GitHub.
